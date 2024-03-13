@@ -1,12 +1,15 @@
-# Project Name
+# Lending club case study
 > Outline a brief description of your project.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+- [Lending club case study](#lending-club-case-study)
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+  - [Conclusions](#conclusions)
+  - [Technologies Used](#technologies-used)
+  - [Acknowledgements](#acknowledgements)
+  - [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
